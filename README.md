@@ -11,7 +11,7 @@ This project was created to practice CSS layouts, positioning, spacing, styling,
 
 ## 🚀 Live Preview
 
-[**View Live Project →**](https://aradhya.lusa.co.in/CSS-Project---Myntra-Clone)
+[**View Live Project →**](https://aradhya.lusa.co.in/CSS-Project-Myntra-Clone)
 
 > **Note:** This project is not responsive and was created for learning purposes.
 
